@@ -1,13 +1,14 @@
 # Hi, I'm Afri 👋🏾 👩🏾‍💻
 
 <img src="https://smkprestasiprima.sch.id/wp-content/uploads/2023/06/BG-1.jpg" alt="">
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
+Halo, Saya Afri! Pelajar dari Jakarta Timur, seorang pelajar yang sangat kecanduan dengan komputer, internet namun masih awam dengan hal itu.
+Saya suka mempelajari programming, hacking, linux, saya sering melupakan sesuatu maka karna itu saya suka menulis, saya suka mendokumentasikan beberapa hal yang baru saya pelajari
+bahkan yang saya ketahui, semua itu semata-mata agar saya tidak lupa.
 
 ## Find me around the web 🌎:
-- Student at <a href="https://smkprestasiprima.sch.id/">SMK PRESTASI PRIMA</a>✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- My Activity updates on <a href="https://www.linkedin.com/in/monicampowell/">Instagram</a> 💼
+- Pelajar di <a href="https://smkprestasiprima.sch.id/">SMK PRESTASI PRIMA</a>✍🏾
+- Website <a href="https://rtd.codegeek.my.id"> Codegeek</a> 🏓
+- Social Media <a href="https://www.linkedin.com/in/monicampowell/">Instagram</a> 💼
 
 ## 💼 Technical Skills
 
