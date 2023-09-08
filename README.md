@@ -2,7 +2,7 @@
 
 <img src="https://smkprestasiprima.sch.id/wp-content/uploads/2023/06/BG-1.jpg" alt="">
 Halo, Saya Afri! Pelajar dari Jakarta Timur, seorang pelajar yang sangat kecanduan dengan komputer, internet namun masih awam dengan hal itu.
-Saya suka mempelajari programming, hacking, linux, saya sering melupakan sesuatu maka karna itu saya suka menulis, saya suka mendokumentasikan beberapa hal yang baru saya pelajari
+Saya suka mempelajari programming, hacking, linux. Saya sering melupakan sesuatu maka karna itu saya menulis, saya suka menulis untuk men-dokumentasikan beberapa hal yang baru saya pelajari
 bahkan yang saya ketahui, semua itu semata-mata agar saya tidak lupa.
 
 ## Find me around the web 🌎:
